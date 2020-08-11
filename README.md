@@ -12,7 +12,7 @@ git clone https://github.com/codebatata69/hangman_python
 
 Enter the directory and run the game using
 ````bash
-cd hangman-cli-game
+cd hangman_python
 python main.py
 ````
 
